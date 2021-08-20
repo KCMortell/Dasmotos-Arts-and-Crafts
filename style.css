@@ -1,0 +1,66 @@
+﻿body {
+    font-family: Helvetica;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(pattern.jpg);
+    background-color: black;
+    margin: 0;
+}
+
+h2 {
+    color: white;
+    margin-bottom: 0;
+    padding: 10px;
+}
+
+h3 {
+    margin: 20px 10px;
+}
+
+p {
+    margin: 20px 10px;
+}
+
+img {
+    float: left;
+    height: 250px;
+    width: 25%;
+}
+
+.item {
+    content: "";
+    clear: both;
+    height: 300px;
+    margin-top: 0;
+    height: 250px;
+}
+
+.description {
+    float: left;
+    width: 70%;
+}
+
+.price {
+    font-weight: bold;
+    color: blue;
+}
+
+#brushes {
+    background-color: mediumspringgreen;
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
